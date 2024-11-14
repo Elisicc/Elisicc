@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elisicc&label=Profile%20views&color=0e75b6&style=flat" alt="elisicc" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elisicc" alt="elisicc" /></a> </p>
+- 🔭 I’m currently working on improving my Programming skills **Pokedex**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
