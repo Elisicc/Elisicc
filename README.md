@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elisicc&label=Profile%20views&color=0e75b6&style=flat" alt="elisicc" /> </p>
 
-- 🔭 I’m currently working on improving my Programming skills **Pokedex**
+- 🔭 I’m currently working on improving my Programming skills
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
